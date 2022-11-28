@@ -11,8 +11,8 @@
 * [Page 4](page-4.md)
 * [Page 5](page-5.md)
 
----
+***
 
--  [Java](Java) 
-  -  [_01.md](Java/_01.md) 
-  -  [_02.md](Java/_02.md) 
+* [Java](Java) 
+  * [_01.md](Java/_01.md) 
+  * [_02.md](Java/_02.md) 
